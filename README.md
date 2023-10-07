@@ -38,3 +38,4 @@
 <p align="left">
 <a href="https://discord.gg/Zp8eKzaATk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 <a href="https://twitter.com/toky_fr" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href="https://youtube.come/@tokyfr" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube"/></a>
