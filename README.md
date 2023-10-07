@@ -1,16 +1,40 @@
-### Hi there 👋
+[![MasterHead](https://cdn.discordapp.com/attachments/984327509325787176/1160300142168129587/Logo_Rounded.png?ex=653428b7&is=6521b3b7&hm=b8cf29529f7bcaeff8c90a99f30b4d8ce2f4c3147d4c4eec9219df2c12a1bd39&)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Toky</h1>
+<h3 align="center">A French Kotlin developer !</h3>
 
-<!--
-**TokyFR/TokyFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working for  **MShade & Levely 👀**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Kotlin Compose**
+
+- 📫 How to reach me **Discord (see under)**
+
+- 📄 Know about my experiences **on this page**
+
+
+<br>
+<h3 align="left">Languages and Tools:</h3>
+
+- Language
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java" />
+  </a>
+</p>
+
+- Tool
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,linux" />
+  </a>
+</p>
+<br/>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/Zp8eKzaATk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://twitter.com/toky_fr" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"/></a>
