@@ -19,14 +19,13 @@
 - Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,css" />
   </a>
 </p>
 
 - Tool
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
     <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,linux,gradle" />
   </a>
