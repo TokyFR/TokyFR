@@ -35,6 +35,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=" https://www.youtube.com/@Toky-FR" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" width=55 height=40/></a>
+<a href="https://www.youtube.com/@Toky-FR" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" width=55 height=40/></a>
 <a href="https://discord.gg/Zp8eKzaATk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 <a href="https://twitter.com/toky_fr" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"/></a>
