@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/984327509325787176/1160300142168129587/Logo_Rounded.png?ex=653428b7&is=6521b3b7&hm=b8cf29529f7bcaeff8c90a99f30b4d8ce2f4c3147d4c4eec9219df2c12a1bd39&)](https://discord.gg/Zp8eKzaATk)
 <h1 align="center">Hi 👋, I'm Toky</h1>
 <h3 align="center">A French Kotlin developer !</h3>
 
