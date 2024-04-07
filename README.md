@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔭 I've worked for **PixelmonGo, Hexarion, Valarium, GemStudio and more 👀**
+- 🔭 I've worked for **PixelmonGo, Hexarion, VinlandMC, Shivana, Skylodia and more 👀**
 
-- 🌱 I’m currently learning **Kotlin Compose**
+- 🌱 I mainly develop **applications and Discord bots**
 
 - 📫 How to reach me **Discord (see under)**
 
