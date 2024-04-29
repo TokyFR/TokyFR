@@ -15,14 +15,14 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-- Language
+- Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java,css" />
   </a>
 </p>
 
-- Tool
+- Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
