@@ -3,11 +3,11 @@
 
 <br>
 
-- 🔭 I've worked for **PixelmonGo, Hexarion, VinlandMC, Shivana, Skylodia and more 👀**
+- 🔭 I've worked for **PixelmonGo, Hexarion, VinlandMC, Skylodia and many more**
 
-- 🌱 I mainly develop **applications and Discord bots**
+- 🌱 I mainly develop **desktop applications and Discord bots**
 
-- 📫 How to reach me **Discord (see under)**
+- 📫 Reach me **Discord (see under)**
 
 - 📄 Know about my experiences **on this page**
 
@@ -35,5 +35,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@Toky-FR" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" width=55 height=40/></a>
-<a href="https://discord.gg/Zp8eKzaATk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://discord.gg/levely" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 <a href="https://twitter.com/toky_fr" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"/></a>
