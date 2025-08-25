@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hey, I'm Toky</h1>
-<h3 align="center">🇫🇷 Kotlin Developer | Desktop Apps & Discord Bots</h3>
+<h3 align="center">🇫🇷 Kotlin & Java Developer</h3>
 
 ---
 
 ### 🚀 About Me
 - 🔭 Worked on **PixelmonGo, CobbleStory, Hexarion, VinlandMC, Skylodia**, and more  
-- 🌱 Mainly develop **desktop applications** and **Discord bot development**  
+- 🌱 Mainly develop **desktop applications** and **Discord bots**  
 - 📫 Reach me on **Discord** *(see below)*  
 - 📄 Check out my experiences **right here on GitHub**  
 
