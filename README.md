@@ -1,38 +1,43 @@
-<h1 align="center">Hi 👋, I'm Toky</h1>
-<h3 align="center">A French Kotlin developer !</h3>
+<h1 align="center">👋 Hey, I'm Toky</h1>
+<h3 align="center">🇫🇷 Kotlin Developer | Desktop Apps & Discord Bots</h3>
+
+---
+
+### 🚀 About Me
+- 🔭 Worked on **PixelmonGo, CobbleStory, Hexarion, VinlandMC, Skylodia**, and more  
+- 🌱 Mainly develop **desktop applications** and **Discord bot development**  
+- 📫 Reach me on **Discord** *(see below)*  
+- 📄 Check out my experiences **right here on GitHub**  
 
 <br>
 
-- 🔭 I've worked for **PixelmonGo, Hexarion, VinlandMC, Skylodia and many more**
-
-- 🌱 I mainly develop **desktop applications and Discord bots**
-
-- 📫 Reach me **Discord (see under)**
-
-- 📄 Know about my experiences **on this page**
-
-
-<br>
-<h3 align="left">Languages and Tools:</h3>
-
+### 🛠️ Languages & Tools
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,css" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-    <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,linux,gradle" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,gradle" />
   </a>
 </p>
-<br/>
+
+- OS's
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
+  </a>
+</p>
 
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+### 🌐 Connect With Me
 <p align="left">
 <a href="https://www.youtube.com/@Toky-FR" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" width=55 height=40/></a>
 <a href="https://discord.gg/levely" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
